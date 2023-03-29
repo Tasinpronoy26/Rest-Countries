@@ -1,0 +1,11 @@
+.Country{
+    
+    margin: 20px;
+    padding: 20px;
+    background-color: bisque;
+    border-radius: 20px;
+}
+
+.Country img{
+    width: 200px;
+}
